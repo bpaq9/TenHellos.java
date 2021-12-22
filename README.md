@@ -1,3 +1,4 @@
+ *  Type:         While loop
  *  Compilation:  javac TenHellos.java
  *  Execution:    java TenHellos
  * 
