@@ -1,3 +1,6 @@
+# TenHellos.java
+Prints "Hello World" 10 times
+
  *  Type:         While loop
  *  Compilation:  javac TenHellos.java
  *  Execution:    java TenHellos
