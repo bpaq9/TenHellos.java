@@ -10,7 +10,7 @@ public class TenHellos {
         int i = 4;
         while (i <= 10) {
             System.out.println(i + "th Hello");
-            i = i++;
+            i = i + 1;
         }
 
     }
